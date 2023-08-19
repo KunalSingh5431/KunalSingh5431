@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Kunal Singh</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalsingh5431&label=Profile%20views&color=0e75b6&style=flat" alt="kunalsingh5431" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalsingh5431" alt="kunalsingh5431" /></a> </p>
+<img align="right" alt="coding" width="400" height="280" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
 
 - 🌱 I’m currently learning **Flask**
 
