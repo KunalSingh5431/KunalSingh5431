@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kunalsingh5431" target="blank"><img src="https://img.shields.io/twitter/follow/kunalsingh5431?logo=twitter&style=for-the-badge" alt="kunalsingh5431" /></a> </p>
 
-- 🌱 I’m currently learning **React Flask**
+- 🌱 I’m currently learning **Python Flask**
 
 - 💬 Ask me about **HTML5,CSS3,Javascript,ReactJS**
 
