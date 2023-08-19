@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/kunalsingh5431" target="blank"><img src="https://img.shields.io/twitter/follow/kunalsingh5431?logo=twitter&style=for-the-badge" alt="kunalsingh5431" /></a> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Flask**
 
-- 💬 Ask me about **HTML5,CSS3,Javascript**
+- 💬 Ask me about **HTML5,CSS3,Javascript,ReactJS**
 
 - 📫 How to reach me **kunalsingh5431@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **Code is poetry, and bugs are its unexpected rhymes. 🐞✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
