@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalsingh5431" alt="kunalsingh5431" /></a> </p>
 <img align="right" alt="coding" width="400" height="280" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **HTML,CSS,Javascript ,ReactJS**
+- 💬 Ask me about **HTML,CSS,Javascript ,ReactJS,Flask**
 
 - 📫 How to reach me **kunalsingh5431@gmail.com**
 
