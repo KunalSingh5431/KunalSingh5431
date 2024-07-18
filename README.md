@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQGXYLnCynlK6w/profile-displaybackgroundimage-shrink_350_1400/0/1689051111729?e=1712793600&v=beta&t=72DwstWlrBtHBk4VUMACGTupNUEzcQJNwHFt0mopugU)
+![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KUNAL SINGH
 ===================================================================================================================================
 
