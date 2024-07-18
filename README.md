@@ -1,3 +1,4 @@
+![MasterHead](https://media.licdn.com/dms/image/D5616AQGXYLnCynlK6w/profile-displaybackgroundimage-shrink_350_1400/0/1689051111729?e=1712793600&v=beta&t=72DwstWlrBtHBk4VUMACGTupNUEzcQJNwHFt0mopugU)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KUNAL SINGH
 ===================================================================================================================================
 
@@ -7,7 +8,6 @@ Full Stack Developer and ML Enthusiast
 👋 Hi there! I'm , a passionate computer science engineer with a strong background in full-stack development. I've had the pleasure of working on numerous projects, tackling everything from front-end design to back-end integration. 🚀 Recently, I've been diving into the fascinating world of machine learning. As an ML enthusiast, I'm excited about the potential of algorithms and data analysis to drive innovation and solve complex problems. 💻 My GitHub repositories showcase a blend of my Front-end projects as well as full-stack projects and my latest forays into machine learning. Feel free to explore, contribute, and connect with me! 🌟 Let's build something amazing together!
 
 <img align="right" alt="coding" width="300" height="280" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
-
 
 * 🌍  I'm based in Kolkata, India
 * ✉️  You can contact me at [kunalsingh5431@gmail.com](mailto:kunalsingh5431@gmail.com )
