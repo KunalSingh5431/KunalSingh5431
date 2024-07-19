@@ -36,3 +36,10 @@ Full Stack Developer and ML Enthusiast
 <a href="http://www.github.com/KunalSingh5431"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalSingh5431&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/KunalSingh5431" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh5431&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalsingh5431&label=Profile%20views&color=0e75b6&style=flat" alt="kunalsingh5431" /> </p>
+
+### Trophy 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalsingh5431" alt="kunalsingh5431" /></a> </p>
