@@ -42,4 +42,4 @@ Full Stack Developer and ML Enthusiast
 
 ### Trophy 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalsingh5431" alt="kunalsingh5431" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" margin-left="20"><img src="https://github-profile-trophy.vercel.app/?username=kunalsingh5431" alt="kunalsingh5431" /></a> </p>
