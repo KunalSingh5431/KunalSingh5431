@@ -10,6 +10,9 @@ Hi there! I'm , a passionate computer science engineer with a strong background 
 <br>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Profile%20views-0e75b6?style=flat&logo=github" alt="Profile views" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Location-Kolkata,%20India-brightgreen" alt="Location" />
   <a href="mailto:kunalsingh5431@gmail.com">
     <img src="https://img.shields.io/badge/Contact-kunalsingh5431@gmail.com-blue" alt="Contact" />
@@ -149,8 +152,6 @@ Hi there! I'm , a passionate computer science engineer with a strong background 
 
 <a href="https://github.com/KunalSingh5431" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh5431&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalsingh5431&label=Profile%20views&color=0e75b6&style=flat" alt="kunalsingh5431" /> </p>
 
 ### 🏆 Trophy 
 
