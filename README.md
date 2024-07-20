@@ -141,6 +141,8 @@ Hi there! I'm , a passionate computer science engineer with a strong background 
 
 ### 📊 Badges
 
+<img align="right" alt="coding" width="250" height="210" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/KunalSingh5431"><img src="https://github-readme-stats.vercel.app/api?username=KunalSingh5431&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KunalSingh5431's GitHub stats" /></a>
