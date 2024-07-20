@@ -10,9 +10,7 @@ Hi there! I'm , a passionate computer science engineer with a strong background 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20views-0e75b6?style=flat&logo=github" alt="Profile views" />
-</p>
-<p align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalsingh5431&label=Profile%20views&color=0e75b6&style=flat" alt="kunalsingh5431" /> </p>
   <img src="https://img.shields.io/badge/Location-Kolkata,%20India-brightgreen" alt="Location" />
   <a href="mailto:kunalsingh5431@gmail.com">
     <img src="https://img.shields.io/badge/Contact-kunalsingh5431@gmail.com-blue" alt="Contact" />
