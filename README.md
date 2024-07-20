@@ -9,11 +9,18 @@ Full Stack Developer and ML Enthusiast
 
 <img align="right" alt="coding" width="250" height="210" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
 
-* 🌍  I'm based in Kolkata, India
-* ✉️  You can contact me at [kunalsingh5431@gmail.com](mailto:kunalsingh5431@gmail.com )
-* 🧠  I'm learning Machine Learning
-* 🤝  I'm open to collaborating on other Fullstack project ideas
-* ⚡  Code is poetry, and bugs are its unexpected rhymes. 🐞✨
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Kolkata,%20India-brightgreen" alt="Location" />
+  <a href="mailto:kunalsingh5431@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-kunalsingh5431@gmail.com-blue" alt="Contact" />
+  </a>
+  <img src="https://img.shields.io/badge/Learning-Machine%20Learning-orange" alt="Learning" />
+  <img src="https://img.shields.io/badge/Collaboration-Open%20to%20Fullstack%20Projects-yellow" alt="Collaboration" />
+</p>
+<p align="center">
+  <em>⚡ Code is poetry, and bugs are its unexpected rhymes. 🐞✨</em>
+</p>
+
 
 ### Skills
 
