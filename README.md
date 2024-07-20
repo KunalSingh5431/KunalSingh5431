@@ -17,9 +17,12 @@ Hi there! I'm , a passionate computer science engineer with a strong background 
   <img src="https://img.shields.io/badge/Learning-Machine%20Learning-orange" alt="Learning" />
   <img src="https://img.shields.io/badge/Collaboration-Open%20to%20Fullstack%20Projects-yellow" alt="Collaboration" />
 </p>
-<p align="center">
-  <em>⚡ Code is poetry, and bugs are its unexpected rhymes. 🐞✨</em>
+<p align="center" style="font-size: 1.2em; font-weight: bold; padding: 10px; border-radius: 10px; background-color: #f0f8ff; border: 2px solid #4A90E2; color: #333;">
+  <span style="color: #FF5722;">⚡ Code is poetry,</span> 
+  <span style="color: #FFC107;">and bugs are its unexpected rhymes.</span> 
+  <span style="color: #4CAF50;">🐞✨</span>
 </p>
+
 
 
 ### Skills
