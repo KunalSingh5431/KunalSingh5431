@@ -154,4 +154,11 @@ Hi there! I'm , a passionate computer science engineer with a strong background 
 
 ### 🏆 Trophy 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" margin-left="20"><img src="https://github-profile-trophy.vercel.app/?username=kunalsingh5431" alt="kunalsingh5431" /></a> </p> make them more attractivve 
+### 🏆 Trophy
+
+<p align="center" style="background-color: #f4f4f4; border-radius: 10px; padding: 20px; display: inline-block; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=kunalsingh5431" alt="GitHub Profile Trophy" style="border-radius: 10px;"/>
+  </a>
+</p>
+
