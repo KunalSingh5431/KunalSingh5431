@@ -8,9 +8,8 @@ Full Stack Developer and ML Enthusiast
 Hi there! I'm , a passionate computer science engineer with a strong background in full-stack development. I've had the pleasure of working on numerous projects, tackling everything from front-end design to back-end integration. 🚀 Recently, I've been diving into the fascinating world of machine learning. As an ML enthusiast, I'm excited about the potential of algorithms and data analysis to drive innovation and solve complex problems. 💻 My GitHub repositories showcase a blend of my Front-end projects as well as full-stack projects and my latest forays into machine learning. Feel free to explore, contribute, and connect with me! 🌟 Let's build something amazing together!
 
 <br>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalsingh5431&label=Profile%20views&color=0e75b6&style=flat" alt="kunalsingh5431" /> </p>
 <p align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalsingh5431&label=Profile%20views&color=0e75b6&style=flat" alt="kunalsingh5431" /> </p>
   <img src="https://img.shields.io/badge/Location-Kolkata,%20India-brightgreen" alt="Location" />
   <a href="mailto:kunalsingh5431@gmail.com">
     <img src="https://img.shields.io/badge/Contact-kunalsingh5431@gmail.com-blue" alt="Contact" />
