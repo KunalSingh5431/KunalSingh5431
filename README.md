@@ -7,7 +7,7 @@ Full Stack Developer and ML Enthusiast
 
 👋 Hi there! I'm , a passionate computer science engineer with a strong background in full-stack development. I've had the pleasure of working on numerous projects, tackling everything from front-end design to back-end integration. 🚀 Recently, I've been diving into the fascinating world of machine learning. As an ML enthusiast, I'm excited about the potential of algorithms and data analysis to drive innovation and solve complex problems. 💻 My GitHub repositories showcase a blend of my Front-end projects as well as full-stack projects and my latest forays into machine learning. Feel free to explore, contribute, and connect with me! 🌟 Let's build something amazing together!
 
-<img align="right" alt="coding" width="250" height="210" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Kolkata,%20India-brightgreen" alt="Location" />
