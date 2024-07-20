@@ -141,7 +141,7 @@ Hi there! I'm , a passionate computer science engineer with a strong background 
 
 ### 📊 Badges
 
-<img align="right" alt="coding" width="250" height="210" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
+<img align="right" alt="coding" width="380" height="350" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
 
 <b>My GitHub Stats</b>
 
