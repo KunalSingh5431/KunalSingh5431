@@ -153,5 +153,5 @@ Hi there! I'm , a passionate computer science engineer with a strong background 
 
 ### 🏆 Trophy 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/KunalSingh5431/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KunalSingh5431&theme=onedark)](https://github.com/KunalSingh5431/github-profile-trophy)
 
