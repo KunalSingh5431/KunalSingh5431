@@ -24,8 +24,7 @@
 
 # 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** with hands-on experience in building scalable, modern, and user-focused web applications.  
-I enjoy transforming ideas into real digital products using technologies across the MERN ecosystem while continuously exploring the world of **AI and Machine Learning**.
+I'm a passionate **Full Stack Developer** with hands-on experience in building scalable, modern, and user-focused web applications. I enjoy transforming ideas into real digital products using technologies across the MERN ecosystem while continuously exploring the world of **AI and Machine Learning**.
 
 Currently, I'm focused on:
 
@@ -43,7 +42,7 @@ Currently, I'm focused on:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,nodejs,express,mongodb,mysql,postgresql,redux,tailwind,bootstrap,materialui,docker,git,github,vercel,render,gcp,figma&perline=9" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,nodejs,express,mongodb,mysql,postgresql,redux,tailwind,bootstrap,materialui,docker,git,github,vercel,gcp,figma&perline=9" />
 
 </p>
 
@@ -53,10 +52,17 @@ Currently, I'm focused on:
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=KunalSingh5431&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KunalSingh5431&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=KunalSingh5431&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </p>
 
+<p align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh5431&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</p>
 ---
 
 # 🏆 GitHub Trophies
