@@ -3,38 +3,51 @@
 </h1>
 
 <h3 align="center">
-  🚀 Full Stack Developer | AI Enthusiast | Building Modern Digital Experiences
+  🚀 Full Stack Developer | AI Enthusiast | Building Scalable Digital Products
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Modern+Web+Applications;Passionate+About+SaaS+%26+Startups;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KunalSingh5431&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/Location-Kolkata,%20India-0A66C2?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-success?style=for-the-badge" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🌱 Currently learning **Machine Learning & AI Systems**
-- 💻 Passionate about **Full Stack Development**
-- 🚀 Building scalable and modern web applications
-- 🧠 Exploring **AI + SaaS products**
-- 📫 Reach me at: **kunalsingh5431@gmail.com**
-- ⚡ Fun fact: *I turn coffee into code ☕*
+I'm a passionate **Full Stack Developer** with hands-on experience in building scalable, modern, and user-focused web applications.  
+I enjoy transforming ideas into real digital products using technologies across the MERN ecosystem while continuously exploring the world of **AI and Machine Learning**.
 
-<br>
+Currently, I'm focused on:
+
+- 🚀 Building modern SaaS & AI-powered applications
+- 💻 Creating high-performance full-stack systems
+- 🧠 Exploring AI integrations and intelligent workflows
+- ⚡ Writing clean, scalable, and production-ready code
+- 🌱 Continuously improving problem-solving & system design skills
+
+<br clear="right"/>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/KunalSingh5431">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<a href="https://github.com/KunalSingh5431" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/kunal-singh-162467242/">
+<a href="https://www.linkedin.com/in/kunal-singh-162467242/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -42,49 +55,20 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.threads.net/@__kunalsingh.__">
+<a href="https://www.threads.net/@__kunalsingh.__" target="_blank">
   <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-# 💻 Tech Stack
-
-## 🚀 Languages
+# ⚒️ Tech Stack & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python" />
-</p>
 
-## 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,redux,tailwind,bootstrap,materialui,vite,docker,git,github,vercel,render,gcp,figma,vscode&perline=9" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap,vite" />
-</p>
-
-## ⚙️ Backend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase" />
-</p>
-
-## 🗄️ Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-## ☁️ Cloud & DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,gcp,git,github,vercel,render" />
-</p>
-
-## 🎨 Design & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,figma" />
 </p>
 
 ---
@@ -92,13 +76,17 @@
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KunalSingh5431&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KunalSingh5431&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KunalSingh5431&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=KunalSingh5431&theme=tokyonight&hide_border=true&border_radius=15" />
+
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh5431&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh5431&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+
 </p>
 
 ---
@@ -106,40 +94,29 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KunalSingh5431&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KunalSingh5431&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-# 📌 Current Focus
+# 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalSingh5431&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+<div align="center">
+
+## 🚀 Current Focus
 
 ```yaml
-🔭 Building Full Stack Applications
-🌱 Learning AI & Machine Learning
-⚡ Improving Problem Solving Skills
-🚀 Exploring SaaS & Startup Development
-```
+Building scalable Full Stack Applications
+Learning AI & Machine Learning Systems
+Exploring SaaS & Startup Development
+Improving System Design & Problem Solving
 
----
-
-# 📊 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KunalSingh5431&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-# ✨ Quote of the Day
-
-<p align="center">
-  <i>
-    "Code. Create. Innovate. Repeat."
-  </i>
-</p>
-
----
-
-<p align="center">
-  ⭐ From <a href="https://github.com/KunalSingh5431">Kunal Singh</a>
-</p>
+</div>
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div>
+<p align="center"> <i>Code. Create. Innovate. Repeat.</i> </p> ```
