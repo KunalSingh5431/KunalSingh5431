@@ -39,49 +39,17 @@ Currently, I'm focused on:
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/KunalSingh5431" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kunal-singh-162467242/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:kunalsingh5431@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.threads.net/@__kunalsingh.__" target="_blank">
-  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 # ⚒️ Tech Stack & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,redux,tailwind,bootstrap,materialui,vite,docker,git,github,vercel,render,gcp,figma,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,nodejs,express,mongodb,mysql,postgresql,redux,tailwind,bootstrap,materialui,docker,git,github,vercel,render,gcp,figma&perline=9" />
 
 </p>
 
 ---
 
 # 📈 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KunalSingh5431&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=KunalSingh5431&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</p>
 
 <p align="center">
 
@@ -109,14 +77,29 @@ Currently, I'm focused on:
 
 <div align="center">
 
-## 🚀 Current Focus
-
-```yaml
-Building scalable Full Stack Applications
-Learning AI & Machine Learning Systems
-Exploring SaaS & Startup Development
-Improving System Design & Problem Solving
-
-</div>
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div>
-<p align="center"> <i>Code. Create. Innovate. Repeat.</i> </p> ```
+<p align="center"> <i>Code. Create. Innovate. Repeat.</i> </p> 
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/KunalSingh5431" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kunal-singh-162467242/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kunalsingh5431@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.threads.net/@__kunalsingh.__" target="_blank">
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
+</a>
+
+</p>
