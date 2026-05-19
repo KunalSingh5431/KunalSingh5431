@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Modern+Web+Applications;Passionate+About+SaaS+%26+Startups;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Modern+Web+Applications;Passionate+About+SaaS+%26+Startups;Always+Learning+New+Technologies;Code.+Create.+Innovate.+Repeat." />
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ Currently, I'm focused on:
 
 <p align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh5431&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=KunalSingh5431&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </p>
 
@@ -78,7 +78,6 @@ Currently, I'm focused on:
 <div align="center">
 
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div>
-<p align="center"> <i>Code. Create. Innovate. Repeat.</i> </p> 
 
 ---
 
