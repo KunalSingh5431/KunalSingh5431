@@ -52,18 +52,10 @@ Currently, I'm focused on:
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KunalSingh5431&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-
 <img width="49%" src="https://streak-stats.demolab.com?user=KunalSingh5431&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </p>
 
-<p align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh5431&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</p>
----
 
 # 🏆 GitHub Trophies
 
