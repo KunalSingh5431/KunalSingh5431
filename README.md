@@ -1,17 +1,14 @@
- <!-- ===== ANIMATED HEADER ===== -->
+ <!-- ===== ANIMATED HEADER (name shows) ===== -->
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&sec
-  tion=header&text=Kunal%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Develop
-  er%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+  tion=header&text=Kunal%20Singh&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
   </p>
 
   <!-- ===== TYPING ===== -->
   <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0
-  0C2FF&center=true&vCenter=true&width=800&height=60&lines=MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Build
-  ing+Modern+Web+Applications;Passionate+About+SaaS+%26+Startups;Code.+Create.+Innovate.+Repeat." alt="Typing SVG" />
-    </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C
+  2FF&center=true&vCenter=true&width=800&height=55&lines=MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Buildin
+  g+Modern+Web+Applications;Passionate+About+SaaS+%26+Startups;Code.+Create.+Innovate.+Repeat." alt="Typing SVG" />
   </p>
 
   <!-- ===== BADGES ===== -->
@@ -35,7 +32,7 @@
   </p>
 
   <!-- ===== ANIMATED DIVIDER ===== -->
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.webp"
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
   width="100%" />
 
   ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
@@ -54,7 +51,7 @@
 
   <br clear="right"/>
 
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.webp"
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
   width="100%" />
 
   ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack & Tools
@@ -64,7 +61,7 @@
   sql,redux,tailwind,bootstrap,materialui,docker,git,github,vercel,gcp,figma&perline=11" />
   </p>
 
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.webp"
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
   width="100%" />
 
   ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sYfLFmc/giphy.gif" width="28"> GitHub Analytics
@@ -82,7 +79,7 @@
   alt="streak" />
   </p>
 
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.webp"
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
   width="100%" />
 
   ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Trophies
@@ -92,14 +89,15 @@
   e&margin-w=4&row=1&column=7" alt="trophies" />
   </p>
 
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.webp"
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
   width="100%" />
 
   ## 🐍 Contribution Snake
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"
-  />
+    <img
+  src="https://raw.githubusercontent.com/KunalSingh5431/KunalSingh5431/output/github-contribution-grid-snake-dark.svg"
+  alt="snake" />
   </p>
 
   ## 📈 Contribution Graph
@@ -109,7 +107,7 @@
   r=true&area=true" alt="activity graph" />
   </p>
 
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.webp"
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
   width="100%" />
 
   <p align="center">
