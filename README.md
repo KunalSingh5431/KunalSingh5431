@@ -48,52 +48,17 @@
 
 # 🚀 Tech Stack
 
-## 💻 Programming Languages
-
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,cpp"/>
 
-</p>
-
-## 🎨 Frontend
-
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind,materialui,bootstrap"/>
-
-</p>
-
-## ⚙️ Backend
-
-<p align="center">
 
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-</p>
-
-## 🗄️ Database
-
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
 
-</p>
-
-## 🛠 Tools & Platforms
-
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,gcp,figma,vscode"/>
-
-</p>
-
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh5431&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -106,7 +71,6 @@
 
 </p>
 
----
 
 # 🏆 GitHub Trophies
 
@@ -116,7 +80,6 @@
 
 </p>
 
----
 
 # 🐍 Contribution Snake
 
@@ -126,7 +89,6 @@
 
 </p>
 
----
 
 # 💬 Developer Quote
 
@@ -136,7 +98,6 @@
 
 </p>
 
----
 
 # 🌐 Connect With Me
 
