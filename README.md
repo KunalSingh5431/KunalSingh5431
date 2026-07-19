@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=900&color=00E7FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+MongoDB;AI+Enthusiast;Always+Learning+New+Technologies;Open+to+Software+Engineering+Opportunities" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=900&color=00E7FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;AI+Enthusiast;Always+Learning+New+Technologies;Open+to+Software+Engineering+Opportunities" alt="Typing Animation"/>
 </p>
 
 <p align="center">
@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge"/>
 </p>
 
----
 
 # 👨‍💻 About Me
 
@@ -46,7 +45,6 @@
 
 <br clear="right"/>
 
----
 
 # 🚀 Tech Stack
 
