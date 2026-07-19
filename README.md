@@ -1,7 +1,7 @@
 <!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/57/46/8d/57468d8387042651790a73ade6a0d224.jpg?auto=format&fit=crop&w=1800&q=80" width="100%" alt="Developer Banner"/>
+  <img src="https://i.pinimg.com/736x/68/f2/aa/68f2aa0d9922f9db69c00b2a3813caea.jpg?auto=format&fit=crop&w=1800&q=80" width="100%" alt="Developer Banner"/>
 </p>
 
 <h1 align="center">
