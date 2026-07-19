@@ -98,7 +98,6 @@
 
 </p>
 
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -120,8 +119,6 @@
 </a>
 
 </p>
-
----
 
 <h2 align="center">
 
