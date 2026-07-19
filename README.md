@@ -1,110 +1,152 @@
-<!-- ===== ANIMATED HEADER (name shows) ===== -->
+<!-- ================= HEADER ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Kunal%20Singh&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Kunal%20Singh&fontAlign=50&fontAlignY=40&fontSize=60&animation=fadeIn" />
 </p>
 
-<!-- ===== TYPING ===== -->
+<h1 align="center">Hi 👋, I'm Kunal Singh</h1>
+
+<h3 align="center">
+Full Stack MERN Developer • AI Enthusiast • Building Scalable Web Applications
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&height=55&lines=MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Modern+Web+Applications;Passionate+About+SaaS+%26+Startups;Code.+Create.+Innovate.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;AI+Powered+Applications;Open+Source+Enthusiast" />
 </p>
 
-<!-- ===== BADGES ===== -->
+---
+
+## 🌟 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 💻 Full Stack MERN Developer
+- 🚀 Building scalable SaaS applications
+- 🤖 Passionate about AI & Machine Learning
+- 🌱 Learning System Design & Advanced Backend
+- ⚡ Love building production-ready products
+- 🎯 Open to Full-Time Software Engineer opportunities
+
+### 📫 Reach Me
+
+- 📧 **kunalsingh5431@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/kunal-singh-162467242
+- 🌐 GitHub: https://github.com/KunalSingh5431
+
+---
+
+# 💻 Tech Stack
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KunalSingh5431&label=Profile%20Views&color=00C2FF&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/badge/Location-Kolkata,%20India-0A66C2?style=for-the-badge" alt="location" />
-  <img src="https://img.shields.io/badge/Open%20To-Collaboration-2ECC71?style=for-the-badge" alt="open" />
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,postgresql,redux,tailwind,materialui,docker,git,github,vercel,firebase,figma,python,c,cpp&perline=8" />
+
 </p>
 
-<!-- ===== SOCIALS ===== -->
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🚀 AI Content System | SaaS platform for AI-powered social media content generation |
+| 💼 Portfolio Website | Modern developer portfolio built using React + Tailwind |
+| 📋 Kanban Board | Drag & Drop task management application |
+| 🏢 Onboarding UI | Employee onboarding dashboard |
+| 🌐 Agency Website | Responsive business website built with React |
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/KunalSingh5431">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 
-  <a href="https://www.linkedin.com/in/kunal-singh-162467242/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalSingh5431&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-  <a href="mailto:kunalsingh5431@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh5431&layout=compact&theme=tokyonight&hide_border=true"/>
 
-  <a href="https://www.threads.net/@__kunalsingh.__">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
-  </a>
 </p>
 
-<!-- ===== ANIMATED DIVIDER ===== -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
-<img align="right" alt="coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-Passionate **Full Stack Developer** building scalable, modern, user-focused web apps. I turn ideas into real digital products across the **MERN** ecosystem while exploring **AI & Machine Learning**.
-
-- 🚀 Building modern **SaaS & AI-powered** applications
-- 💻 Crafting high-performance full-stack systems
-- 🧠 Exploring AI integrations & intelligent workflows
-- ⚡ Writing clean, scalable, production-ready code
-- 🌱 Sharpening problem-solving & system design
-- 📫 Reach me: **kunalsingh5431@gmail.com**
-
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack & Tools
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,nodejs,express,mongodb,mysql,postgresql,redux,tailwind,bootstrap,materialui,docker,git,github,vercel,gcp,figma&perline=11" />
+
+<img src="https://streak-stats.demolab.com?user=KunalSingh5431&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sYfLFmc/giphy.gif" width="28"> GitHub Analytics
+# 📈 Contribution Graph
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KunalSingh5431&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&include_all_commits=true" alt="stats" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh5431&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="top langs" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalSingh5431&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KunalSingh5431&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Requires GitHub Actions.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/KunalSingh5431/KunalSingh5431/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="mailto:kunalsingh5431@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/kunal-singh-162467242">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KunalSingh5431">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=KunalSingh5431&theme=tokyonight&hide_border=true&border_radius=15" alt="streak" />
-</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KunalSingh5431&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KunalSingh5431/KunalSingh5431/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalSingh5431&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
-</p>
-
-<h3 align="center">💙 Thanks for visiting — Let's build something amazing together!</h3>
-
-<!-- ===== ANIMATED FOOTER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" />
 </p>
