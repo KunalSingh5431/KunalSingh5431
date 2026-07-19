@@ -48,6 +48,14 @@
 
 # 🚀 Tech Stack
 
+## 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,cpp"/>
+
+</p>
+
 ## 🎨 Frontend
 
 <p align="center">
@@ -55,8 +63,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind,materialui,bootstrap"/>
 
 </p>
-
----
 
 ## ⚙️ Backend
 
@@ -66,8 +72,6 @@
 
 </p>
 
----
-
 ## 🗄️ Database
 
 <p align="center">
@@ -75,18 +79,6 @@
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
 
 </p>
-
----
-
-## 💻 Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,cpp"/>
-
-</p>
-
----
 
 ## 🛠 Tools & Platforms
 
@@ -96,13 +88,12 @@
 
 </p>
 
----
 
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KunalSingh5431&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api username=KunalSingh5431&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh5431&layout=compact&theme=tokyonight&hide_border=true"/>
 
