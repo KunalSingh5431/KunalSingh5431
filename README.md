@@ -1,123 +1,110 @@
- <!-- ===== ANIMATED HEADER (name shows) ===== -->
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&sec
-  tion=header&text=Kunal%20Singh&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
-  </p>
+<!-- ===== ANIMATED HEADER (name shows) ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Kunal%20Singh&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+</p>
 
-  <!-- ===== TYPING ===== -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C
-  2FF&center=true&vCenter=true&width=800&height=55&lines=MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Buildin
-  g+Modern+Web+Applications;Passionate+About+SaaS+%26+Startups;Code.+Create.+Innovate.+Repeat." alt="Typing SVG" />
-  </p>
+<!-- ===== TYPING ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&height=55&lines=MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Modern+Web+Applications;Passionate+About+SaaS+%26+Startups;Code.+Create.+Innovate.+Repeat." alt="Typing SVG" />
+</p>
 
-  <!-- ===== BADGES ===== -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=KunalSingh5431&label=Profile%20Views&color=00C2FF&style=for-the-badge"
-  alt="views" />
-    <img src="https://img.shields.io/badge/Location-Kolkata,%20India-0A66C2?style=for-the-badge" alt="location" />
-    <img src="https://img.shields.io/badge/Open%20To-Collaboration-2ECC71?style=for-the-badge" alt="open" />
-  </p>
+<!-- ===== BADGES ===== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KunalSingh5431&label=Profile%20Views&color=00C2FF&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/badge/Location-Kolkata,%20India-0A66C2?style=for-the-badge" alt="location" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-2ECC71?style=for-the-badge" alt="open" />
+</p>
 
-  <!-- ===== SOCIALS ===== -->
-  <p align="center">
-    <a href="https://github.com/KunalSingh5431"><img
-  src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/kunal-singh-162467242/"><img
-  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:kunalsingh5431@gmail.com"><img
-  src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://www.threads.net/@__kunalsingh.__"><img
-  src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
-  </p>
+<!-- ===== SOCIALS ===== -->
+<p align="center">
+  <a href="https://github.com/KunalSingh5431">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-  <!-- ===== ANIMATED DIVIDER ===== -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-  width="100%" />
+  <a href="https://www.linkedin.com/in/kunal-singh-162467242/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-  ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+  <a href="mailto:kunalsingh5431@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-  <img align="right" alt="coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <a href="https://www.threads.net/@__kunalsingh.__">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
+  </a>
+</p>
 
-  Passionate **Full Stack Developer** building scalable, modern, user-focused web apps. I turn ideas into real digital
-  products across the **MERN** ecosystem while exploring **AI & Machine Learning**.
+<!-- ===== ANIMATED DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-  - 🚀 Building modern **SaaS & AI-powered** applications
-  - 💻 Crafting high-performance full-stack systems
-  - 🧠 Exploring AI integrations & intelligent workflows
-  - ⚡ Writing clean, scalable, production-ready code
-  - 🌱 Sharpening problem-solving & system design
-  - 📫 Reach me: **kunalsingh5431@gmail.com**
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-  <br clear="right"/>
+<img align="right" alt="coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-  width="100%" />
+Passionate **Full Stack Developer** building scalable, modern, user-focused web apps. I turn ideas into real digital products across the **MERN** ecosystem while exploring **AI & Machine Learning**.
 
-  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack & Tools
+- 🚀 Building modern **SaaS & AI-powered** applications
+- 💻 Crafting high-performance full-stack systems
+- 🧠 Exploring AI integrations & intelligent workflows
+- ⚡ Writing clean, scalable, production-ready code
+- 🌱 Sharpening problem-solving & system design
+- 📫 Reach me: **kunalsingh5431@gmail.com**
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,nodejs,express,mongodb,mysql,postgre
-  sql,redux,tailwind,bootstrap,materialui,docker,git,github,vercel,gcp,figma&perline=11" />
-  </p>
+<br clear="right"/>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-  width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-  ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sYfLFmc/giphy.gif" width="28"> GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack & Tools
 
-  <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KunalSingh5431&show_icons=true&theme=tokyo
-  night&hide_border=true&border_radius=15&count_private=true&include_all_commits=true" alt="stats" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh5431&layout=compact&t
-  heme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="top langs" />
-  </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,nodejs,express,mongodb,mysql,postgresql,redux,tailwind,bootstrap,materialui,docker,git,github,vercel,gcp,figma&perline=11" />
+</p>
 
-  <p align="center">
-    <img width="60%"
-  src="https://streak-stats.demolab.com?user=KunalSingh5431&theme=tokyonight&hide_border=true&border_radius=15"
-  alt="streak" />
-  </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-  width="100%" />
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sYfLFmc/giphy.gif" width="28"> GitHub Analytics
 
-  ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Trophies
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KunalSingh5431&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&include_all_commits=true" alt="stats" />
 
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=KunalSingh5431&theme=tokyonight&no-frame=true&no-bg=tru
-  e&margin-w=4&row=1&column=7" alt="trophies" />
-  </p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSingh5431&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="top langs" />
+</p>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-  width="100%" />
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=KunalSingh5431&theme=tokyonight&hide_border=true&border_radius=15" alt="streak" />
+</p>
 
-  ## 🐍 Contribution Snake
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-  <p align="center">
-    <img
-  src="https://raw.githubusercontent.com/KunalSingh5431/KunalSingh5431/output/github-contribution-grid-snake-dark.svg"
-  alt="snake" />
-  </p>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Trophies
 
-  ## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KunalSingh5431&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
+</p>
 
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalSingh5431&theme=tokyo-night&hide_borde
-  r=true&area=true" alt="activity graph" />
-  </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-  width="100%" />
+## 🐍 Contribution Snake
 
-  <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
-  </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KunalSingh5431/KunalSingh5431/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</p>
 
-  <h3 align="center">💙 Thanks for visiting — let's build something amazing together!</h3>
+## 📈 Contribution Graph
 
-  <!-- ===== ANIMATED FOOTER ===== -->
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&sec
-  tion=footer" width="100%" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalSingh5431&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</p>
+
+<h3 align="center">💙 Thanks for visiting — Let's build something amazing together!</h3>
+
+<!-- ===== ANIMATED FOOTER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" />
+</p>
